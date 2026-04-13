@@ -1,0 +1,16 @@
+{
+  "name": "ARIS — Adaptive Routine Intelligence System",
+  "short_name": "ARIS",
+  "description": "Smart student productivity app with gamification, AI tutor, and mission tracking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070714",
+  "theme_color": "#6c63ff",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en"
+}
